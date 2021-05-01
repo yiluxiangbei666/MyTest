@@ -1,7 +1,2 @@
 符官正
 1111
-<<<<<<< Updated upstream
-23121
-=======
->>>>>>> Stashed changes
-2222
